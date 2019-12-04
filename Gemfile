@@ -12,7 +12,7 @@ gem 'http'
 gem 'lograge'
 gem 'pg'
 gem 'puma'
-gem 'rails', '~> 5.2'
+gem 'rails'
 gem 'tzinfo-data'
 
 group :development do
